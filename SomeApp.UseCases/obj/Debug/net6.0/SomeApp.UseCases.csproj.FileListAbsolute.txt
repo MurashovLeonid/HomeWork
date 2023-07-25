@@ -1,0 +1,17 @@
+C:\GitHome\WebApplication\SomeApp.UseCases\bin\Debug\net6.0\SomeApp.UseCases.deps.json
+C:\GitHome\WebApplication\SomeApp.UseCases\bin\Debug\net6.0\SomeApp.UseCases.dll
+C:\GitHome\WebApplication\SomeApp.UseCases\bin\Debug\net6.0\SomeApp.UseCases.pdb
+C:\GitHome\WebApplication\SomeApp.UseCases\bin\Debug\net6.0\SomeApp.Contracts.dll
+C:\GitHome\WebApplication\SomeApp.UseCases\bin\Debug\net6.0\SomeApp.Infrastructure.Interfaces.dll
+C:\GitHome\WebApplication\SomeApp.UseCases\bin\Debug\net6.0\SomeApp.Contracts.pdb
+C:\GitHome\WebApplication\SomeApp.UseCases\bin\Debug\net6.0\SomeApp.Infrastructure.Interfaces.pdb
+C:\GitHome\WebApplication\SomeApp.UseCases\obj\Debug\net6.0\SomeApp.UseCases.csproj.AssemblyReference.cache
+C:\GitHome\WebApplication\SomeApp.UseCases\obj\Debug\net6.0\SomeApp.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHome\WebApplication\SomeApp.UseCases\obj\Debug\net6.0\SomeApp.UseCases.AssemblyInfoInputs.cache
+C:\GitHome\WebApplication\SomeApp.UseCases\obj\Debug\net6.0\SomeApp.UseCases.AssemblyInfo.cs
+C:\GitHome\WebApplication\SomeApp.UseCases\obj\Debug\net6.0\SomeApp.UseCases.csproj.CoreCompileInputs.cache
+C:\GitHome\WebApplication\SomeApp.UseCases\obj\Debug\net6.0\SomeApp.UseCases.csproj.CopyComplete
+C:\GitHome\WebApplication\SomeApp.UseCases\obj\Debug\net6.0\SomeApp.UseCases.dll
+C:\GitHome\WebApplication\SomeApp.UseCases\obj\Debug\net6.0\refint\SomeApp.UseCases.dll
+C:\GitHome\WebApplication\SomeApp.UseCases\obj\Debug\net6.0\SomeApp.UseCases.pdb
+C:\GitHome\WebApplication\SomeApp.UseCases\obj\Debug\net6.0\ref\SomeApp.UseCases.dll

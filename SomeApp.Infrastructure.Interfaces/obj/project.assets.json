@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "SomeApp.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/SomeApp.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SomeApp.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SomeApp.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../SomeApp.Contracts/SomeApp.Contracts.csproj",
+      "msbuildProject": "../SomeApp.Contracts/SomeApp.Contracts.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "SomeApp.Contracts >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\admin\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\GitHome\\WebApplication\\SomeApp.Infrastructure.Interfaces\\SomeApp.Infrastructure.Interfaces.csproj",
+      "projectName": "SomeApp.Infrastructure.Interfaces",
+      "projectPath": "C:\\GitHome\\WebApplication\\SomeApp.Infrastructure.Interfaces\\SomeApp.Infrastructure.Interfaces.csproj",
+      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+      "outputPath": "C:\\GitHome\\WebApplication\\SomeApp.Infrastructure.Interfaces\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\GitHome\\WebApplication\\SomeApp.Contracts\\SomeApp.Contracts.csproj": {
+              "projectPath": "C:\\GitHome\\WebApplication\\SomeApp.Contracts\\SomeApp.Contracts.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

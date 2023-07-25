@@ -1,0 +1,15 @@
+C:\GitHome\WebApplication\SomeApp.Infrastructure.Interfaces\bin\Debug\net6.0\SomeApp.Infrastructure.Interfaces.deps.json
+C:\GitHome\WebApplication\SomeApp.Infrastructure.Interfaces\bin\Debug\net6.0\SomeApp.Infrastructure.Interfaces.dll
+C:\GitHome\WebApplication\SomeApp.Infrastructure.Interfaces\bin\Debug\net6.0\SomeApp.Infrastructure.Interfaces.pdb
+C:\GitHome\WebApplication\SomeApp.Infrastructure.Interfaces\bin\Debug\net6.0\SomeApp.Contracts.dll
+C:\GitHome\WebApplication\SomeApp.Infrastructure.Interfaces\bin\Debug\net6.0\SomeApp.Contracts.pdb
+C:\GitHome\WebApplication\SomeApp.Infrastructure.Interfaces\obj\Debug\net6.0\SomeApp.Infrastructure.Interfaces.csproj.AssemblyReference.cache
+C:\GitHome\WebApplication\SomeApp.Infrastructure.Interfaces\obj\Debug\net6.0\SomeApp.Infrastructure.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHome\WebApplication\SomeApp.Infrastructure.Interfaces\obj\Debug\net6.0\SomeApp.Infrastructure.Interfaces.AssemblyInfoInputs.cache
+C:\GitHome\WebApplication\SomeApp.Infrastructure.Interfaces\obj\Debug\net6.0\SomeApp.Infrastructure.Interfaces.AssemblyInfo.cs
+C:\GitHome\WebApplication\SomeApp.Infrastructure.Interfaces\obj\Debug\net6.0\SomeApp.Infrastructure.Interfaces.csproj.CoreCompileInputs.cache
+C:\GitHome\WebApplication\SomeApp.Infrastructure.Interfaces\obj\Debug\net6.0\SomeApp.Infrastructure.Interfaces.csproj.CopyComplete
+C:\GitHome\WebApplication\SomeApp.Infrastructure.Interfaces\obj\Debug\net6.0\SomeApp.Infrastructure.Interfaces.dll
+C:\GitHome\WebApplication\SomeApp.Infrastructure.Interfaces\obj\Debug\net6.0\refint\SomeApp.Infrastructure.Interfaces.dll
+C:\GitHome\WebApplication\SomeApp.Infrastructure.Interfaces\obj\Debug\net6.0\SomeApp.Infrastructure.Interfaces.pdb
+C:\GitHome\WebApplication\SomeApp.Infrastructure.Interfaces\obj\Debug\net6.0\ref\SomeApp.Infrastructure.Interfaces.dll

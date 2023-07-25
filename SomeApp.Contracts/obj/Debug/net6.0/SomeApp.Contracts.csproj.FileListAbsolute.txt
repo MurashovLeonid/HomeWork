@@ -1,0 +1,12 @@
+C:\GitHome\WebApplication\SomeApp.Contracts\bin\Debug\net6.0\SomeApp.Contracts.deps.json
+C:\GitHome\WebApplication\SomeApp.Contracts\bin\Debug\net6.0\SomeApp.Contracts.dll
+C:\GitHome\WebApplication\SomeApp.Contracts\bin\Debug\net6.0\SomeApp.Contracts.pdb
+C:\GitHome\WebApplication\SomeApp.Contracts\obj\Debug\net6.0\SomeApp.Contracts.csproj.AssemblyReference.cache
+C:\GitHome\WebApplication\SomeApp.Contracts\obj\Debug\net6.0\SomeApp.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHome\WebApplication\SomeApp.Contracts\obj\Debug\net6.0\SomeApp.Contracts.AssemblyInfoInputs.cache
+C:\GitHome\WebApplication\SomeApp.Contracts\obj\Debug\net6.0\SomeApp.Contracts.AssemblyInfo.cs
+C:\GitHome\WebApplication\SomeApp.Contracts\obj\Debug\net6.0\SomeApp.Contracts.csproj.CoreCompileInputs.cache
+C:\GitHome\WebApplication\SomeApp.Contracts\obj\Debug\net6.0\SomeApp.Contracts.dll
+C:\GitHome\WebApplication\SomeApp.Contracts\obj\Debug\net6.0\refint\SomeApp.Contracts.dll
+C:\GitHome\WebApplication\SomeApp.Contracts\obj\Debug\net6.0\SomeApp.Contracts.pdb
+C:\GitHome\WebApplication\SomeApp.Contracts\obj\Debug\net6.0\ref\SomeApp.Contracts.dll
